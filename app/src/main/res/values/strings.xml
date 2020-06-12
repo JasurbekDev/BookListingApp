@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="text_search_books">Search books</string>
+    <string name="text_search_btn">Seach</string>
+    <string name="text_thumbnail">thumbnail</string>
+    <string name="search_books">Search books to see them.</string>
+    <string name="no_books">No books found.</string>
+    <string name="no_internet">No internet connection.</string>
+</resources>
